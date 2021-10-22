@@ -1,0 +1,2 @@
+# Customer-Service-Request-Analysis
+This project was done as part of assignment - PGP AI Datascience using Python. This project does Exploratory Data Analysis for the NYC 311 service request calls data. This uses hypothesis testing to determine if average response time is similar for all complaint type. Also, Chi squared test  is used to determine if the complaint type and location are related to each other.
